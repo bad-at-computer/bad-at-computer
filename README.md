@@ -7,7 +7,7 @@ I’m a full stack developer and aspiring systems analyst. I like to decompose p
 
 I draw from more than a decade of experience in the fields of software development, project management, solar energy, video game QA testing, LED lighting, and electrical utilities.
 
-- 🔭 I’m currently working on renewing my project management cert for CAPM.
+- 🔭 I recently recertified my CAPM for project management.
 - 🌱 I’m currently learning about the blockchain.
 - 👯 I’m looking to collaborate on anything IoT.
 - 💬 Ask me about flowcharts.
