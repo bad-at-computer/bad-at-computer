@@ -11,5 +11,5 @@ I draw from more than a decade of experience in the fields of software developme
 - 🌱 I’m currently learning about the blockchain.
 - 👯 I’m looking to collaborate on anything IoT.
 - 💬 Ask me about flowcharts.
-- 📫 How to reach me: info@badatcomputer.net
+- 📫 How to reach me: send a message via my portfolio site [badatcomputer.net](https://badatcomputer.net)
 - ⚡ Fun fact: Snakes are “solar-powered” (ectothermic)
